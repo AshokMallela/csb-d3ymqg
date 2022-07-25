@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ashokmallela.github.io/csb-d3ymqg/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ashokmallela.github.io/csb-d3ymqg/static/js/main.f11b0028.chunk.js",
+    "main.js.map": "https://ashokmallela.github.io/csb-d3ymqg/static/js/main.f11b0028.chunk.js.map",
+    "runtime-main.js": "https://ashokmallela.github.io/csb-d3ymqg/static/js/runtime-main.c84b4eeb.js",
+    "runtime-main.js.map": "https://ashokmallela.github.io/csb-d3ymqg/static/js/runtime-main.c84b4eeb.js.map",
+    "static/js/2.b0504009.chunk.js": "https://ashokmallela.github.io/csb-d3ymqg/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://ashokmallela.github.io/csb-d3ymqg/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://ashokmallela.github.io/csb-d3ymqg/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ashokmallela.github.io/csb-d3ymqg/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://ashokmallela.github.io/csb-d3ymqg/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c84b4eeb.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f11b0028.chunk.js"
+  ]
+}
